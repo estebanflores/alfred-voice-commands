@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="false">Alfred - Test App</string>
+    <string name="title_section1">Colors</string>
+    <string name="title_section2">Others</string>
+    <string name="title_section3">Others</string>
+    <string name="speak">Speak to Alfred</string>
+    <string name="search_title">Type a command</string>
+    <string name="give_me_a_command">Please, give me a command Sir!</string>
+    <string name="color_changed_message">Your colour was changed Sir!</string>
+    <string name="color_red">red</string>
+    <string name="color_white">white</string>
+    <string name="color_yellow">yellow</string>
+    <string name="color_grey">grey</string>
+    <string name="color_green">green</string>
+    <string name="color_black">black</string>
+    <string name="i_dont_see_you_sir">I don\'t see you, Sir! I will turn light on now ...</string>
+    <string name="color_violet">violet|lila</string>
+    <string name="color_orange">orange</string>
+    <string name="color_blue">blue</string>
+
+
+</resources>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Limon Solutions - 2014 - Esteban Flores <esteban.flores@gmail.com>
+  ~
+  ~ This file is part of Alfred Voice Command project.
+  ~
+  ~ Licensed to the Apache Software Foundation (ASF) under one
+  ~ or more contributor license agreements.  See the NOTICE file
+  ~ distributed with this work for additional information
+  ~ regarding copyright ownership.  The ASF licenses this file
+  ~ to you under the Apache License, Version 2.0 (the
+  ~ "License"); you may not use this file except in compliance
+  ~ with the License.  You may obtain a copy of the License at
+  ~
+  ~    http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing,
+  ~ software distributed under the License is distributed on an
+  ~ "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+  ~
+  ~ KIND, either express or implied.  See the License for the
+  ~ specific language governing permissions and limitations
+  ~ under the License.
+  -->
+<resources>
+    <string name="search_title">Gebe ein Kommando ein</string>
+    <string name="speak">Spreche zu Alfred</string>
+    <string name="title_section1">Farbe</string>
+    <string name="title_section2">Andere</string>
+    <string name="title_section3">Andere</string>
+    <string name="give_me_a_command">Bitte, geben Sie mir ein Befehl!</string>
+    <string name="color_changed_message">Your colour was changed Sir!</string>
+    <string name="color_grey">grau</string>
+    <string name="color_red">rot</string>
+    <string name="color_white">weiß|weiss</string>
+    <string name="color_yellow">gelb</string>
+    <string name="color_green">grün</string>
+    <string name="color_black">schwarz</string>
+    <string name="i_dont_see_you_sir">I don\'t see you, Sir! I will turn light on now ...</string>
+    <string name="color_blue">blau</string>
+    <string name="color_orange">orange</string>
+    <string name="color_violet">violet|lila</string>
+
+</resources>
