@@ -23,7 +23,5 @@
  */
 package com.limon.alfred.voicecommands.action;
 
-import android.graphics.Color;
-
 public interface ColorActionListener extends ActionListener<Integer> {
 }
